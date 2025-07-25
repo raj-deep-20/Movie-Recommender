@@ -4,7 +4,8 @@ A sleek and responsive movie recommendation system built with Streamlit, utilizi
 
 ---
 
-🚀 Features
+## 🚀 Features
+
 🔍 Content-Based Filtering: Recommends movies similar to your selection based on metadata like genres, cast, crew, and keywords.
 
 🖼 Modern UI: Built with Streamlit for a clean, professional user experience.
@@ -29,7 +30,8 @@ tmdb_5000_credits.csv
 
 ---
 
-🧠 Tech Stack
+## 🧠 Tech Stack
+
 Python
 
 Streamlit — modern web UI
