@@ -1,4 +1,5 @@
-🎬 Movie Recommendation System (Content-Based)
+## 🎬 Movie Recommendation System 
+
 A sleek and responsive movie recommendation system built with Streamlit, utilizing content-based filtering to suggest movies similar in genre, cast, keywords, and more.
 
 ---
