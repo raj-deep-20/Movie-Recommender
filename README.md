@@ -24,6 +24,8 @@ You'll need:
 
 tmdb_5000_movies.csv
 
+tmdb_5000_credits.csv
+
 ---
 
 🧠 Tech Stack
